@@ -29,4 +29,4 @@ Project Objective
 The main objective of this project is to transform raw e-commerce data into meaningful visual insights that help understand customer trends, product performance, and business profitability.
 
 GitHub README Tags
-#PowerBI #DataAnalytics #Dashboard #BusinessIntelligence #DataVisualization #Ecommerce #AnalyticsProject screen short:https://github.com/siddhimore415-design/E-commerse-product-analysis-dashboard-/blob/main/Screenshot%202026-05-16%20155615.png
+#PowerBI #DataAnalytics #Dashboard #BusinessIntelligence #DataVisualization #Ecommerce #AnalyticsProject
